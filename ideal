@@ -1,1 +1,1 @@
-v=spf1 include:sendgrid.net include:mail.zendesk.com include:_spf.google.com include:spf.mail.intercom.io include:servers.mcsv.net include:_survey1.envoy.com include:_survey2.envoy.com -all
+v=spf1 include:sendgrid.net include:mail.zendesk.com include:_spf.google.com include:spf.mail.intercom.io include:servers.mcsv.net -all
